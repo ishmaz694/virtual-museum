@@ -9,11 +9,11 @@ import FinalBox from './FinalBox'
 
 // Quadri sulla parete SINISTRA 
 const PAINTINGS_LEFT = [
-  { position: [-5.5, 1.8, -9], title: 'Piazza del Duomo', imageUrl: './images/piazzaduomo.jpg' },
-  { position: [-5.5, 1.8, -14], title: 'Basilica di Santa Croce', imageUrl: 'images/basilicasantacroce.jpg' },
-  { position: [-5.5, 1.8, -21], title: 'Piazzale Michelangelo', imageUrl: 'images/piazzalemichelangelo.jpg' },
-  { position: [-5.5, 1.8, -38], title: 'Ponte Vecchio', imageUrl: 'images/pontevecchio.jpg' },
-  { position: [-5.5, 1.8, -46], title: 'Piazza della Signoria', imageUrl: 'images/piazzasignoria.jpg' },
+  { position: [-5.5, 1.8, -9], title: 'Piazza del Duomo', imageUrl: '/images/piazzaduomo.jpg' },
+  { position: [-5.5, 1.8, -14], title: 'Basilica di Santa Croce', imageUrl: '/images/basilicasantacroce.jpg' },
+  { position: [-5.5, 1.8, -21], title: 'Piazzale Michelangelo', imageUrl: '/images/piazzalemichelangelo.jpg' },
+  { position: [-5.5, 1.8, -38], title: 'Ponte Vecchio', imageUrl: '/images/pontevecchio.jpg' },
+  { position: [-5.5, 1.8, -46], title: 'Piazza della Signoria', imageUrl: '/images/piazzasignoria.jpg' },
 ]
 
 // Quadri sulla parete DESTRA
