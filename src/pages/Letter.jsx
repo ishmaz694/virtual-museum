@@ -60,7 +60,7 @@ export default function Letter() {
           </div>
         </div>
 
-        <button onClick={() => window.location.href = '/'} className="back-button">
+        <button onClick={() => window.location.href = '/virtual-museum/'} className="back-button">
           ← Torna al Museo
         </button>
       </div>
